@@ -1,0 +1,22 @@
+# Core data science packages
+pandas>=2.3.2
+numpy>=2.2.6
+ipython>=8.0.0
+
+# Kaggle integration
+kagglehub>=0.3.13
+
+# Visualization
+matplotlib>=3.10.6
+
+# Machine Learning
+scikit-learn>=1.7.1
+xgboost>=3.0.4
+lightgbm>=4.6.0
+shap>=0.46.0
+numba>=0.61.2
+
+# Statistics and optimization
+scipy>=1.15.3
+statsmodels>=0.14.5
+optuna>=4.5.0
