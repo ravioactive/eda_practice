@@ -23,6 +23,9 @@ dependencies = [
     "pickleshare>=0.7.5",
     "ipykernel",
     "seaborn",
+    "squarify>=0.4.4",
+    "pywaffle>=1.1.1",
+    "plotly>=6.3.0",
 ]
 
 [tool.uv]
