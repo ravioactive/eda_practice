@@ -4,6 +4,13 @@
 
 This deployment plan provides a comprehensive roadmap for implementing the feature engineering framework in production environments. It covers practical application scenarios, component integration strategies, and step-by-step deployment procedures for different organizational needs.
 
+**📚 Related Guides:**
+- **Development Process:** See `DEVELOPMENT_WORKFLOW_GUIDE.md` for notebook + Python development workflow
+- **Implementation Details:** See `IMPLEMENTATION_GUIDE.md` for technical implementation patterns
+- **Framework Overview:** See `README.md` for complete framework documentation
+
+**🔄 Key Concept:** Notebooks are used for exploration and documentation, while Python utility files contain production-ready code. The deployment plan shows how to combine both for enterprise deployment.
+
 ---
 
 ## **📋 Framework Component Purpose & Application**
@@ -292,7 +299,7 @@ serving_pipeline.deploy(feature_pipeline)
 ### **Scenario 3: Enterprise AI Platform (5-6 Weeks)**
 
 **Objective:** World-class automated feature engineering system
-**Components Used:** Complete framework (all 44 notebooks)
+**Components Used:** Complete framework (all 45 notebooks)
 **Timeline:** 5-6 weeks
 **Team Size:** 6-8 data scientists + 2-3 ML engineers
 
